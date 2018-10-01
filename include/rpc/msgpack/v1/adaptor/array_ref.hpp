@@ -10,7 +10,6 @@
 #ifndef MSGPACK_V1_TYPE_ARRAY_REF_HPP
 #define MSGPACK_V1_TYPE_ARRAY_REF_HPP
 
-#include "rpc/msgpack/v1/adaptor/array_ref.hpp"
 #include "rpc/msgpack/adaptor/check_container_size.hpp"
 #include "rpc/msgpack/cpp_config.hpp"
 #include <cstring>
